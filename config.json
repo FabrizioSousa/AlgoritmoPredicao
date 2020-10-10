@@ -1,0 +1,4 @@
+{
+  "connectionString": "Server=tcp:tccpredicao.database.windows.net,1433;Initial Catalog=PredicaoInadimplencia;Persist Security Info=False;User ID=Fabrizio;Password=Bolsafam1lia;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+  "blobConnectionString": "DefaultEndpointsProtocol=https;AccountName=tccinadimplanecia;AccountKey=kNEa4mJH9VYGlHa/PXcpl+rDBBLCwx/i3DI2AA/WpYFEP/sMvGMCBbyRXqwd2OomBTPZiZnE7u/CrKJ96EwyBQ==;EndpointSuffix=core.windows.net"
+}
